@@ -97,10 +97,7 @@ ROC-AUC (if binary classification)
 
 The final model predicts whether an input comment is toxic or not.
 
-▶️ How to Run
-✅ 1. Clone the Repository
-git clone https://github.com/your-username/toxic-comment-classification.git
-cd toxic-comment-classification
+
 
 ✅ 2. Install Dependencies
 pip install -r requirements.txt
